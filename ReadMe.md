@@ -1,1 +1,4 @@
-This is the ReadMe.md file to provide the instructions for the Project
+This is the ReadMe.md file to provide the instructions for the Project. <Step 1>
+
+Added a new file and changed the ReadMe file <Step 2>
+
