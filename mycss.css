@@ -1,0 +1,156 @@
+/* Body Tags Styling */
+body{
+    background-color: lightgrey;
+}
+
+h1{
+    background-color: cyan;
+    margin-top: 0px;
+    text-align: center;
+    color: coral;
+}
+
+h3{
+    color: rgb(16, 156, 255);
+}
+
+hr {
+    border: 0;
+    clear:both;
+    display:block;
+    width: 100%;               
+    height: 2px;
+}
+
+/* Header Styling */
+.me{
+    float: right;
+    text-align: center;
+    margin-right: 38%;
+    margin-top: 0;
+}
+
+.act{
+    float: left;
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 0;
+}
+
+.myimg{
+    width: 150px;
+    height: 250px;
+}
+
+.hr1{
+    background-color: rgb(126, 123, 123);
+}
+
+/* Activities Styling */
+.act1{
+    float: left;
+    width: 80%;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 2px;
+    margin-left: 80px;
+    box-shadow: 10px 15px 2px orangered;
+    margin-bottom: 35px;
+}
+
+.act1 p{
+    color: purple;
+}
+
+.act1 p, h3, h4{
+    margin-left: 10px;
+}
+
+.img1{
+    float: right;
+    width: 10%;
+    margin-right: 50px;
+}
+
+.i1{
+    height: 180px;
+    width: 180px;
+}
+
+.hr2{
+    background-color: white;
+}
+
+.act2{
+    float: left;
+    width: 80%;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 2px;
+    margin-left: 80px;
+    background-image: url("img/divbg.jpg");
+}
+
+.act2 p, h3, h4{
+    margin-left: 10px;
+}
+
+.img2{
+    float: right;
+    width: 10%;
+    margin-right: 50px;
+}
+
+
+/* I kept the color yellow because orange was not visible */
+.act2 p{
+    color: yellow;
+}
+
+.i2{
+    height: 145px;
+    width: 180px;
+}
+
+.act3{
+    float: left;
+    width: 80%;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 2px;
+    margin-left: 80px;
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
+
+.act3 p, h3, h4{
+    margin-left: 10px;
+}
+
+.img3{
+    float: right;
+    width: 10%;
+    margin-right: 50px;
+    margin-top: 25px;
+}
+
+/* I kept the color yellow because orange was not visible */
+.act3 p{
+    color: green;
+}
+
+.i3{
+    height: 145px;
+    width: 180px;
+}
+
+.hr3{
+    background-color: rgb(172, 172, 172);
+}
+
+/* Footer Styling */
+footer{
+    text-align: center;
+    background-color: orange;
+    margin-bottom: 0px;
+}
